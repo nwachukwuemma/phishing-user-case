@@ -1226,4 +1226,7 @@ async function checkHealth() {
 checkHealth();
 </script>
 </body>
-</html>"""\n\ncomponents.html(HTML_CODE, height=1200, scrolling=True)\n
+</html>"""
+
+
+
